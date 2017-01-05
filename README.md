@@ -8,6 +8,8 @@
 
 实现异点：考虑到老项目迁移(工期与人员的原因)，集成了iframe运行未分离的业务
 
+<img src='resources/1.png' />
+
 > vue,webpack,spa
 
 ## Build Setup
